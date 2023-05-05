@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "episode_number": 1,
+      "description": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory."
+    },
+    {
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "episode_number": 2,
+      "description": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi discovers a secret clone army crafted for the Jedi."
+    },
+    {
+      "title": "Star Wars: Episode III - Revenge of the Sith",
+      "episode_number": 3,
+      "description": "Three years into the Clone Wars, Obi-Wan pursues a new threat, while Anakin is lured by Chancellor Palpatine into a sinister plot to rule the galaxy."
+    }
+  ]
+}
